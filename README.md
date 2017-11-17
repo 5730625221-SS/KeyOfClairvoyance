@@ -4,7 +4,7 @@ This is a game for person who interested in ability to do things simultaneously 
 
 ## Developed by
 
-**Mr.Supakrit Paoliwat 5730593821**
+[**Mr.Supakrit Paoliwat 5730593821**](https://github.com/stepboom)
 
 **Mr.Sitthichai Saejia 5730625221**
 
